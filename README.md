@@ -36,7 +36,7 @@ En Swift con MVC
 
 Múltiples vistas en SwiftUI utilizando distintas opciones que ofrece el framework.
 
-![](https://github.com/user-attachments/assets/673a1159-7736-4f42-ae7f-dee2c21db497 | height=400)
+![](https://github.com/user-attachments/assets/673a1159-7736-4f42-ae7f-dee2c21db497 =250x250)
 
 
 ## [Weather](https://github.com/edgarguitian/Weather)
