@@ -35,6 +35,8 @@ En Swift con MVC
 ## [SwiftUIDesigns](https://github.com/edgarguitian/SwiftUIDesigns)
 
 Múltiples vistas en SwiftUI utilizando distintas opciones que ofrece el framework.
+<img src="https://github.com/user-attachments/assets/673a1159-7736-4f42-ae7f-dee2c21db497" width="128"/>
+
 
 ![](https://github.com/user-attachments/assets/673a1159-7736-4f42-ae7f-dee2c21db497)
 
