@@ -43,21 +43,32 @@ Múltiples vistas en SwiftUI utilizando distintas opciones que ofrece el framewo
 
 App en Clean Arquitecture con Tests en Swift Testing que muestra las condiciones climatológicas de una ciudad.
 
+<img src="https://github.com/user-attachments/assets/eff3c867-7f21-4e05-aed4-a724dca66041" height="500"/>
+
+
 ## [Minimal Todo List](https://github.com/edgarguitian/MinimalTodoList)
 
 App en MVC con Widget que muestra una lista de tareas a realizar/completadas
+
+<img src="https://github.com/user-attachments/assets/fb3f840b-0216-4989-bfad-6080a159db5e" height="500"/>
 
 ## [Crypto Currency](https://github.com/edgarguitian/CryptoCurrency)
 
 App en Clean Arquitecture con Test con XCTest que utiliza el Api de CoinGecko
 
+<img src="https://github.com/user-attachments/assets/6e8c6235-bfb1-4ec9-bb9b-9a85623326d9" height="500"/>
+
 ## [Poke Api](https://github.com/edgarguitian/PokeAPI)
 
 App en Clean Arquitecture con Tests con XCTest que utiliza el Api de Pokemon
 
+<img src="https://github.com/edgarguitian/PokeAPI/assets/6595032/5041da98-5eec-44f2-901b-ddb58d4689da" height="500"/>
+
 ## [Rick & Morty](https://github.com/edgarguitian/RickAndMortyCleanArquitecture)
 
 App en Clean Arquitecture con Tests con XCTest que utiliza el Api de Rick y Morty
+
+<img src="https://github.com/edgarguitian/RickAndMortyCleanArquitecture/assets/6595032/5c01c1f4-baed-4776-8e59-d0773f914055" height="500"/>
 
 ## [MultipleFunctional](https://github.com/edgarguitian/MultipleFunctional)
 
