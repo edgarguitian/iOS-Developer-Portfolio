@@ -6,7 +6,7 @@
 
 ## Contract Work Projects
 
-##[Juasapp Live](https://apps.apple.com/es/app/juasapp-live-bromas/id1088907989)
+## [Juasapp Live](https://apps.apple.com/es/app/juasapp-live-bromas/id1088907989)
 
 [Blablablapp](https://apps.apple.com/es/app/blablablapp/id993705622)
 
