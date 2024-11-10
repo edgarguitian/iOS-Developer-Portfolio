@@ -40,8 +40,6 @@ Múltiples vistas en SwiftUI utilizando distintas opciones que ofrece el framewo
 
 App en Clean Arquitecture con Tests en Swift Testing que muestra las condiciones climatológicas de una ciudad.
 
-![RocketSim_Screenshot_iPhone_15_Pro_6 1_2024-07-16_12 23 09](https://github.com/user-attachments/assets/510d7ea4-bcdd-42d6-93ad-8905ef337d4c)
-
 ## [Minimal Todo List](https://github.com/edgarguitian/MinimalTodoList)
 
 App en MVC con Widget que muestra una lista de tareas a realizar/completadas
