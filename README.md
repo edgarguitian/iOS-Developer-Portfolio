@@ -36,6 +36,9 @@ En Swift con MVC
 
 Múltiples vistas en SwiftUI utilizando distintas opciones que ofrece el framework.
 
+![RocketSim_Screenshot_iPhone_16_6 1_2024-11-10_13 42 05](https://github.com/user-attachments/assets/9fd17cd7-ffb6-4a5f-b188-018460669cd2)
+
+
 ## [Weather](https://github.com/edgarguitian/Weather)
 
 App en Clean Arquitecture con Tests en Swift Testing que muestra las condiciones climatológicas de una ciudad.
