@@ -2,7 +2,7 @@
 ![3](https://github.com/user-attachments/assets/9d39469f-fa27-4e87-a76c-1873ed395d4d)
 
 
-# 👋 Hi! I'm a iOS Engineer. Here's a bit of what I've been working on.
+## 👋 Hi! I'm a iOS Engineer. Here's a bit of what I've been working on.
 
 # Contract Work Projects
 
