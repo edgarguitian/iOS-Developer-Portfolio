@@ -36,7 +36,7 @@ En Swift con MVC
 
 Múltiples vistas en SwiftUI utilizando distintas opciones que ofrece el framework.
 
-![RocketSim_Screenshot_iPhone_16_6 1_2024-11-10_13 42 05](https://github.com/user-attachments/assets/9fd17cd7-ffb6-4a5f-b188-018460669cd2)
+![5](https://github.com/user-attachments/assets/673a1159-7736-4f42-ae7f-dee2c21db497)
 
 
 ## [Weather](https://github.com/edgarguitian/Weather)
