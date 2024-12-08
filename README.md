@@ -38,10 +38,12 @@ En Swift con MVC
 <img src="https://github.com/user-attachments/assets/ec93fbb6-6cd0-4bd5-9359-a189a3314770" height="500"/>
 <img src="https://github.com/user-attachments/assets/05b74c7b-f5d2-4c68-8fc0-4c88939f4b2b" height="500"/>
 
+
 ¡Actualmente disponible en la AppStore! 🚀
+
 Control de Gasto e Ingreso es una app para iPhone y iPad que te ayuda a gestionar tus finanzas personales, monitorear tus ingresos y administrar tus gastos diarios de forma eficiente.
 
-🌟 ### Características principales
+🌟 Características principales
 
 ✔️ Registro de gastos e ingresos
 
