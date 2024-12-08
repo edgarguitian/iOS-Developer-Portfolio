@@ -32,7 +32,7 @@ En Swift con MVC
 
 # Proyectos Personales
 
-## [Control de Gasto e Ingreso](https://apps.apple.com/es/app/control-de-gasto-e-ingreso/id6670723255)
+## [Control de Gasto e Ingreso](https://apps.apple.com/es/app/control-de-gasto-e-ingreso/id6670723255) Actualmente en AppStore
 
 App para iPhone y iPad que permite controlar las finanzas personales, monitorear tus ingresos o administrar tus gastos diarios.
 
