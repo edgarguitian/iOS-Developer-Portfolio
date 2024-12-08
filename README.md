@@ -38,25 +38,39 @@ En Swift con MVC
 <img src="https://github.com/user-attachments/assets/ec93fbb6-6cd0-4bd5-9359-a189a3314770" height="500"/>
 <img src="https://github.com/user-attachments/assets/05b74c7b-f5d2-4c68-8fc0-4c88939f4b2b" height="500"/>
 
+¡Actualmente disponible en la AppStore! 🚀
+Control de Gasto e Ingreso es una app para iPhone y iPad que te ayuda a gestionar tus finanzas personales, monitorear tus ingresos y administrar tus gastos diarios de forma eficiente.
 
-Actualmente en AppStore. App para iPhone y iPad que permite controlar las finanzas personales, monitorear tus ingresos o administrar tus gastos diarios.
+🌟 ### Características principales
 
-Características principales:
+✔️ Registro de gastos e ingresos
 
+Lleva un control detallado de todas tus transacciones, manteniendo un historial organizado.
 
-- Registro de gastos e ingresos: Mantén un control detallado de todas tus transacciones.
+📊 Gráficas visuales
 
-- Gráficas visuales: Visualiza tus finanzas con gráficos claros y atractivos para un mejor análisis.
+Visualiza tus finanzas con gráficos claros y atractivos para analizar tus hábitos de gasto e ingreso.
 
-- Filtros avanzados: Encuentra rápidamente las transacciones que buscas con opciones de búsqueda y filtrado avanzadas.
+🔍 Filtros avanzados
 
-- Categorías personalizables: Agrupa tus gastos e ingresos en categorías que tú mismo puedes crear a tu gusto.
+Encuentra fácilmente las transacciones que necesitas con herramientas de búsqueda y filtrado.
 
-- Seguridad garantizada: Protege tus datos con opciones de bloqueo.
+🏷️ Categorías personalizables
 
-- Widget: Tu información abreviada en la pantalla principal.
+Agrupa tus gastos e ingresos en categorías ajustadas a tus necesidades. ¡Hazlo a tu manera!
 
-Link de descarga: [Control de Gasto e Ingreso](https://apps.apple.com/es/app/control-de-gasto-e-ingreso/id6670723255)
+🔒 Seguridad garantizada
+
+Protege tu información con opciones de bloqueo para mayor tranquilidad.
+
+📱 Widget integrado
+
+Consulta un resumen rápido de tu información financiera directamente desde la pantalla principal.
+
+📥 Descarga ahora
+
+Haz clic en el enlace para empezar a controlar tus finanzas hoy:
+👉 [Control de Gasto e Ingreso](https://apps.apple.com/es/app/control-de-gasto-e-ingreso/id6670723255)
 
 ## [SwiftUIDesigns](https://github.com/edgarguitian/SwiftUIDesigns)
 
