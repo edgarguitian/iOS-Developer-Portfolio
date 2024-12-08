@@ -32,9 +32,9 @@ En Swift con MVC
 
 # Proyectos Personales
 
-## [Control de Gasto e Ingreso](https://apps.apple.com/es/app/control-de-gasto-e-ingreso/id6670723255) Actualmente en AppStore
+## [Control de Gasto e Ingreso](https://apps.apple.com/es/app/control-de-gasto-e-ingreso/id6670723255) 
 
-App para iPhone y iPad que permite controlar las finanzas personales, monitorear tus ingresos o administrar tus gastos diarios.
+Actualmente en AppStore. App para iPhone y iPad que permite controlar las finanzas personales, monitorear tus ingresos o administrar tus gastos diarios.
 
 Características principales:
 
@@ -50,6 +50,8 @@ Características principales:
 - Seguridad garantizada: Protege tus datos con opciones de bloqueo.
 
 - Widget: Tu información abreviada en la pantalla principal.
+
+Link de descarga: [Control de Gasto e Ingreso](https://apps.apple.com/es/app/control-de-gasto-e-ingreso/id6670723255)
 
 ## [SwiftUIDesigns](https://github.com/edgarguitian/SwiftUIDesigns)
 
