@@ -75,6 +75,36 @@ Haz clic en el enlace para empezar a controlar tus finanzas hoy:
 
 👉 [Control de Gasto e Ingreso](https://apps.apple.com/es/app/control-de-gasto-e-ingreso/id6670723255)
 
+## [Tiempo Simple](https://apps.apple.com/es/app/tiempo-simple/id6670606686) 
+
+<img src="https://github.com/user-attachments/assets/3dcbc5cd-0af2-4ba3-af68-fbb3b0e0edd0" height="500"/>
+<img src="https://github.com/user-attachments/assets/5e502f6c-a4a2-45d5-a5b2-6514e0cf48c8" height="500"/>
+<img src="https://github.com/user-attachments/assets/ccdc6124-bf9b-4f88-85f6-a0f83ac0445f" height="500"/>
+<img src="https://github.com/user-attachments/assets/56f201a5-5e11-4592-9359-40ebd1de85a6" height="500"/>
+
+
+¡Actualmente disponible en la AppStore! 🚀
+
+Tiempo Simple es una app para iPhone y iPad que te ofrece toda la información meteorológica de un vistazo.
+
+🌟 Características principales
+
+Información meteorológica precisa y actualizada.
+Interfaz limpia y fácil de usar.
+Pronóstico por horas y a largo plazo.
+Disponible en modo Celsius y Fahrenheit.
+Widget en pantalla principal y pantalla de bloqueo personalizable.
+
+📥 Descarga ahora
+
+Haz clic en el enlace para mantenerte al día con el tiempo de la manera más simple y rápida posible:
+
+👉 [Tiempo Simple](https://apps.apple.com/es/app/tiempo-simple/id6670606686)
+
+## [JobInfo](https://github.com/edgarguitian/JobInfo)
+
+App en Clean Arquitecture con Swift6 y Swift Testing que muestra un listado de trabajos organizados por región, idioma y tipo.
+
 ## [SwiftUIDesigns](https://github.com/edgarguitian/SwiftUIDesigns)
 
 Múltiples vistas en SwiftUI utilizando distintas opciones que ofrece el framework.
