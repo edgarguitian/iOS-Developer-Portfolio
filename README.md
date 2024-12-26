@@ -103,7 +103,11 @@ Haz clic en el enlace para mantenerte al día con el tiempo de la manera más si
 
 ## [JobInfo](https://github.com/edgarguitian/JobInfo)
 
-App en Clean Arquitecture con Swift6 y Swift Testing que muestra un listado de trabajos organizados por región, idioma y tipo.
+App en Clean Arquitecture con Swift6 y Swift Testing que muestra un listado de trabajos organizados por región, tipo o compañía.
+
+<img src="https://github.com/user-attachments/assets/52b40e4d-a706-4069-b08b-d2a604f7693c" height="500"/>
+<img src="https://github.com/user-attachments/assets/775e7978-192a-49e1-8f99-9c9f3cba0f92" height="500"/>
+
 
 ## [SwiftUIDesigns](https://github.com/edgarguitian/SwiftUIDesigns)
 
