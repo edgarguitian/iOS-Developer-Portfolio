@@ -108,6 +108,13 @@ App en Clean Arquitecture con Swift6 y Swift Testing que muestra un listado de t
 <img src="https://github.com/user-attachments/assets/52b40e4d-a706-4069-b08b-d2a604f7693c" height="500"/>
 <img src="https://github.com/user-attachments/assets/775e7978-192a-49e1-8f99-9c9f3cba0f92" height="500"/>
 
+## [TresEnRaya](https://github.com/edgarguitian/TresEnRaya)
+
+Juego en SwiftUI con MVVM.
+
+<img src="https://github.com/user-attachments/assets/1e06c37f-e9a1-4d20-bb75-d0977e69cbc7" height="500"/>
+<img src="https://github.com/user-attachments/assets/51a69404-beca-4d89-a157-be1e0692b68a" height="500"/>
+
 
 ## [SwiftUIDesigns](https://github.com/edgarguitian/SwiftUIDesigns)
 
